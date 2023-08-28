@@ -1,0 +1,8 @@
+ID,ID_Treinamento_CP_Title,Treinamento,Modelo,WorkDay,Carga_Horaria,Regulatório,Periodicidade,Descrição,Regulamentação
+"1","c0bea07c-1d15-4b05-899b-eef4c12cbdc8","NR 11 - Wave e Paleteira","Presencial",,"6","True","365","Treinamento básico para todos os operadores que fazem o uso de Wave (Sistema de elevação de carga)","NR-11"
+"2","c231ced1-0e67-44b7-b787-a31607bb9f63","Ergonomia","Online",,"1","True","365","Treinamento conforme NR-17 onde orienta os operadores sobre os riscos ergonômicos, controles e meios de comunicação","NR-17"
+"3","ec05505f-4960-409e-82e1-4579935ea62f","NR 12 - Maquinas e Equipamentos","Presencial",,"8","True","365","Treinamento com instruções básicas sobre proteção de máquinas e meios de orientação dentro da RA","NR-12"
+"4","0c151ea3-729a-4838-8cc1-75e121c549a5","Investigação de Incidentes de EHS","Online",,"3","False","720","Conceitos para realizar a investigação de acidentes e Incidentes dentro da Rockwell","P-031"
+"5","2b82afd8-b3b7-4aa2-8ddb-5184df89b25a","Treinamento CIPA - NR-05","Presencial","N/A","20","True","365","Treinamento para integrantes do Comitê Interno de Prevenção de Acidentes conforme NR-05","NR-05"
+"6","5ba2ba97-8171-4565-8846-f26c4eab00dd","NR-10 - Básico","Presencial",,"20","True","730","Curso Básico de segurança em eletricidade para baixa tensão","NR-10"
+"7","a73a18c3-6fb8-4012-afa4-eb7749b5ef34","Direção Defensiva","Presencial",,"2","True","365","Condução de treinamentos com base nas regras de direção","N/A"
